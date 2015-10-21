@@ -1,0 +1,27 @@
+<div class="left f_l">
+        <a href="pro_detail3" target="_blank">
+          <img src="http://www.gunlei.com/statics/img/hot_pro1.png" alt="">
+          <p style="margin:0 0 0 140px">
+            <small><img src="http://www.gunlei.com/statics/img/text_leader1.png" alt="">2015款 福特野马 2.3T 自动挡</small>
+            <span>分销价:31.50万</span>
+          </p>
+        </a>
+      </div>
+      <div class="right f_r">
+        <a href="pro_detail4" target="_blank">
+          <p>
+            <small><img src="http://www.gunlei.com/statics/img/text_leader1.png" alt="">2016款 保时捷卡宴 带天窗</small>
+            <span>分销价:89.00万</span>
+          </p>
+          <img src="http://www.gunlei.com/statics/img/hot_pro2.png" alt="">
+        </a>
+        <a href="pro_detail5" target="_blank">
+          <p style="margin-top:10px">
+            <small><img src="http://www.gunlei.com/statics/img/text_leader1.png" alt="">2015款 路虎揽胜 运动版 HSE</small>
+            <span>分销价:91.00万</span>
+          </p>
+          <img src="http://www.gunlei.com/statics/img/hot_pro3.png" alt="" >
+        </a>
+      </div>
+    </div>
+  </div>
