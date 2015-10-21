@@ -1,14 +1,16 @@
-#coding=utf-8
+#!/usr/bin/env python
+#conding=utf-8
 import re
 import requests
+
 f = open('text.txt', 'r')
 html = f.read()
 f.close()
-    
-pic_url = re.findall('img src="(.*?)" alt=""', html, re.S)
+
+pic_url = re.findall('img src="(.*?) alt=""', html, re.S)
 i = 0
 for each in pic_url:
-    print 'now downloading:' + each
+    print "now download:" + each
     pic = requests.get(each)
     fp = open('/root/PycharmProjects/temp/pic/' + str(i) + '.png', 'wb')
     fp.write(pic.content)
